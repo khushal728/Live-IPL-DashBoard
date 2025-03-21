@@ -30,7 +30,7 @@ This project is a **real-time cricket analytics dashboard** built using **Power 
 ### 2️⃣ Steps to Run the Project
 1. Clone this repository:
    ```sh
-   git clone https://github.com/khushal728/cricket-analytics-dashboard.git
+   git clone https://github.com/khushal728/Live-IPL-DashBoard
    ```
 2. Open **Power BI Desktop** and load the provided `.pbix` file.
 3. Ensure your API key is configured to fetch live data.
