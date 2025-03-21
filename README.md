@@ -37,7 +37,7 @@ This project is a **real-time cricket analytics dashboard** built using **Power 
 4. Explore the interactive dashboard and gain insights!
 
 ## 🎥 Demo
-🎥 [Watch the Live Demo](https://user-images.githubusercontent.com/your-video-link.mp4)
+🎥 [Watch the Live Demo](https://github.com/khushal728/Live-IPL-DashBoard/issues/1#issue-2937582799)
 
 
 ## 📌 Future Enhancements
